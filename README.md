@@ -132,7 +132,7 @@ Requirements are typically categorized into two main types: Functional and Non-f
 
 Below is the use case diagram for the Property Booking Management System, illustrating the key actors and their interactions with the system:
 
-![Use Case Diagram](diagrams/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 ### Actors
 
@@ -226,8 +226,7 @@ Acceptance criteria serve multiple critical purposes in software development:
 requirement-analysis/
 │
 ├── README.md                      # Main documentation file (this file)
-├── diagrams/
-│   └── alx-booking-uc.png        # Use case diagram for booking system
+├── alx-booking-uc.png            # Use case diagram for booking system
 └── .git/                          # Git version control directory
 ```
 
@@ -248,9 +247,9 @@ cd requirement-analysis
 cat README.md
 
 # View the use case diagram
-open diagrams/alx-booking-uc.png
+open alx-booking-uc.png
 # or on Linux:
-xdg-open diagrams/alx-booking-uc.png
+xdg-open alx-booking-uc.png
 ```
 
 ---
